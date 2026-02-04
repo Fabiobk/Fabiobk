@@ -1,6 +1,6 @@
 Olá, eu sou o Fábio Cunha! 🚀
 
-Analista de Infraestrutura com mais de 12 anos de experiência em ambientes de larga escala. Atualmente, foco na transição para a cultura DevOps, utilizando automação para otimizar a gestão de servidores e redes.
+Analista de TI Atualmente, foco na transição para a cultura DevOps, utilizando automação para otimizar a gestão de servidores e redes.
 
 O que eu faço:
 
